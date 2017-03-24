@@ -1,4 +1,10 @@
 
 *.sdf
+<<<<<<< HEAD
 *.suo
 **/Debug/*
+=======
+
+*.suo
+**/Debug/*
+>>>>>>> 20b4faa24dd3979c18fc57cac062520d48e43de1
