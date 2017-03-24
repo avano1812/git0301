@@ -29,7 +29,7 @@ int main() {
 	return 0;
 }
 
-<<<<<<< HEAD
+
 
 //return a random word
 string randomWord()
@@ -50,11 +50,6 @@ string randomWord()
 	return word;
 
 
-}
-=======
-string randomWord()
-{
-	return string();
 }
 
 string mixUp(const string& aWord)
@@ -99,4 +94,4 @@ void play(const string& aWord)
 
 	cout << "Thanks a lot for playing.\n";
 }
->>>>>>> 20b4faa24dd3979c18fc57cac062520d48e43de1
+
